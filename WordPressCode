@@ -1,0 +1,173 @@
+#WordPress Website Code
+
+<!-- wp:template-part {"slug":"header","theme":"pub/fewer","tagName":"header"} /-->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:jetpack/tiled-gallery {"className":"is-style-circle","columnWidths":[["17.63995","26.18322","56.17683"]],"ids":[55,56,57,58,59,60]} -->
+<div class="wp-block-jetpack-tiled-gallery aligncenter is-style-circle"><div class="tiled-gallery__gallery"><div class="tiled-gallery__row columns-3"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="Prairie Dogs" data-height="467" data-id="55" data-link="https://photoscomealive.wordpress.com/screenshot-2024-03-10-at-1-38-41-pm/" data-url="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.38.41e280afpm-5.png" data-width="611" src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.38.41e280afpm-5.png?resize=467%2C467" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="Ellie the Dog" data-height="491" data-id="56" data-link="https://photoscomealive.wordpress.com/screenshot-2024-03-10-at-1-40-38-pm/" data-url="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.40.38e280afpm-3.png" data-width="598" src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.40.38e280afpm-3.png?resize=491%2C491" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="Underwater Cities" data-height="434" data-id="57" data-link="https://photoscomealive.wordpress.com/screenshot-2024-03-10-at-1-51-14-pm/" data-url="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.51.14e280afpm-1.png" data-width="637" src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.51.14e280afpm-1.png?resize=434%2C434" data-amp-layout="responsive"/></figure></div></div><div class="tiled-gallery__row columns-3"><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="Unexploded Ordinances" data-height="470" data-id="58" data-link="https://photoscomealive.wordpress.com/screenshot-2024-03-10-at-1-51-37-pm/" data-url="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.51.37e280afpm.png" data-width="558" src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.51.37e280afpm.png?resize=470%2C470" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="The lake that never came" data-height="476" data-id="59" data-link="https://photoscomealive.wordpress.com/screenshot-2024-03-10-at-1-52-01-pm/" data-url="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.52.01e280afpm.png" data-width="691" src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.52.01e280afpm.png?resize=476%2C476" data-amp-layout="responsive"/></figure></div><div class="tiled-gallery__col"><figure class="tiled-gallery__item"><img alt="Healing rock" data-height="452" data-id="60" data-link="https://photoscomealive.wordpress.com/screenshot-2024-03-10-at-1-52-20-pm/" data-url="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.52.20e280afpm.png" data-width="632" src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.52.20e280afpm.png?resize=452%2C452" data-amp-layout="responsive"/></figure></div></div></div></div>
+<!-- /wp:jetpack/tiled-gallery --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:query {"queryId":16,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"25%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25%"><!-- wp:image {"lightbox":{"enabled":false},"id":68,"sizeSlug":"large","linkDestination":"custom","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><a href="https://youtube.com/shorts/xcsMLO4IcIQ?feature=share"><img src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.38.41e280afpm-6.png?w=611" alt="" class="wp-image-68"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"75%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:75%"><!-- wp:paragraph -->
+<p><strong>PRAIRIE DOGS</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Please click the image or scan the QR code below with your smartphone.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:image {"id":76,"width":"157px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-2.34.27e280afpm-1.png?w=562" alt="" class="wp-image-76" style="width:157px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"25%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25%"><!-- wp:image {"lightbox":{"enabled":false},"id":56,"sizeSlug":"full","linkDestination":"custom","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><a href="https://www.youtube.com/shorts/xcsMLO4IcIQ"><img src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.40.38e280afpm-3.png" alt="Ellie the Dog" class="wp-image-56"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"75%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:75%"><!-- wp:paragraph -->
+<p><strong>Ellie the Dog</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Please click the image or scan the QR code below with your smartphone.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:image {"id":76,"width":"157px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-2.34.27e280afpm-1.png?w=562" alt="" class="wp-image-76" style="width:157px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"25%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25%"><!-- wp:image {"lightbox":{"enabled":false},"id":57,"sizeSlug":"full","linkDestination":"custom","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><a href="https://www.youtube.com/shorts/xcsMLO4IcIQ"><img src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.51.14e280afpm-1.png" alt="Underwater Cities" class="wp-image-57"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"75%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:75%"><!-- wp:paragraph -->
+<p><strong>Underwater Cities</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Please click the image or scan the QR code below with your smartphone.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:image {"id":76,"width":"157px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-2.34.27e280afpm-1.png?w=562" alt="" class="wp-image-76" style="width:157px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"25%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25%"><!-- wp:image {"lightbox":{"enabled":false},"id":58,"sizeSlug":"full","linkDestination":"custom","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><a href="https://www.youtube.com/shorts/xcsMLO4IcIQ"><img src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.51.37e280afpm.png" alt="Unexploded Ordinances" class="wp-image-58"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"75%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:75%"><!-- wp:paragraph -->
+<p><strong>Unexploded Ordinances</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Please click the image or scan the QR code below with your smartphone.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:image {"id":76,"width":"157px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-2.34.27e280afpm-1.png?w=562" alt="" class="wp-image-76" style="width:157px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"25%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25%"><!-- wp:image {"lightbox":{"enabled":false},"id":59,"sizeSlug":"full","linkDestination":"custom","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><a href="https://www.youtube.com/shorts/xcsMLO4IcIQ"><img src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.52.01e280afpm.png" alt="The lake that never came" class="wp-image-59"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"75%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:75%"><!-- wp:paragraph -->
+<p><strong>The Lake That Never Came</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Please click the image or scan the QR code below with your smartphone.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:image {"id":76,"width":"157px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-2.34.27e280afpm-1.png?w=562" alt="" class="wp-image-76" style="width:157px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"25%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25%"><!-- wp:image {"lightbox":{"enabled":false},"id":60,"sizeSlug":"full","linkDestination":"custom","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-full is-style-rounded"><a href="https://www.youtube.com/shorts/xcsMLO4IcIQ"><img src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-1.52.20e280afpm.png" alt="Healing rock" class="wp-image-60"/></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"75%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:75%"><!-- wp:paragraph -->
+<p><strong>Healing Rock</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Please click the image or scan the QR code below with your smartphone.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:image {"id":76,"width":"157px","height":"auto","sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large is-resized"><img src="https://photoscomealive.files.wordpress.com/2024/03/screenshot-2024-03-10-at-2.34.27e280afpm-1.png?w=562" alt="" class="wp-image-76" style="width:157px;height:auto"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query -->
